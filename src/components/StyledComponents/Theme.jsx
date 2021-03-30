@@ -17,7 +17,7 @@ export default {
     },
     transition: "all cubic-bezier(0.16, 0.8, 0.45, 1) 0.55s",
     typography: {
-        font: "system-ui",
+        font: "Helvetica",
         fontSize: "20px",
         fontWeight: "400",
         fontLineHeight: "1.6",
